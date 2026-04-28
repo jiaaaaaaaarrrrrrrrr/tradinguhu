@@ -1,1 +1,1 @@
-# tradinguhu
+trading.github.io
